@@ -259,6 +259,6 @@ for i in range(0, 9):
 columns = [ A, B, C, D, E, F, G, H, I, J ]
 
 #introduction
-print() #just for aesthetic lol <3
+print()
 print("Welcome to Battleship! I truly hope that you have a fun time playing this game. By the way: Please remember or write down your boat co-ordinates as they will not be shown on the map for extra difficulty! Also, M means miss, H means you hit, and R means robot hit! Quick note: There being two three square boats is not an error, that's just the rules of battleship. Oh, and you're playing in a 9x9 square: Numbers vertical, letters horizontal! ——Sofia, the game's allmightly creator!")
 playing(0, 0, columns)
